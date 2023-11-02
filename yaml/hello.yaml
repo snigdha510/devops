@@ -1,0 +1,17 @@
+"apple":"I am a red fruit"
+
+1: "This is my roll number"
+---
+#lists
+-apple
+-mango
+-banana
+-Apple
+
+#yaml is case sensitive
+---
+cities:
+ - new delhi
+ - mumbai
+ - gujrat
+...
