@@ -12,8 +12,8 @@ The DevOps Bootcamp by Kunal Kushwaha is a comprehensive video series that cover
 
 I'll regularly update this section to keep track of my learning progress. It may include milestones, achievements, or any challenges I encounter during my DevOps journey.
 
-[29/10/2023]: Started the DevOps Bootcamp.
-[31/10/2023]: Completed git/github tutorial.
-[02/11/2023]: Studied about YAML files in details.
+[29/10/2023]: Started the DevOps Bootcamp.<br>
+[31/10/2023]: Completed git/github tutorial.<br>
+[02/11/2023]: Studied about YAML files in details.<br>
 
 
